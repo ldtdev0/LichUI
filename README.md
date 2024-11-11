@@ -32,6 +32,10 @@ LICHROM is a custom firmware in development for the Samsung Galaxy A54 5G device
 - China Device Care app included
 - [Patched GoodLock](https://github.com/corsicanu/goodlock_dump) app included
 
+# How Install LICHROM
+
+**[Guide Install](https://github.com/MrDemon-LICH/PROJECT-LICHROM/blob/main/Guide-install.md)**
+
 # Copyright Notice
 
 Copyright © 2024 MrDemon-LICH. All rights reserved.
