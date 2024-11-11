@@ -59,6 +59,8 @@ A big thanks goes to the following for their invaluable contributions in no part
 - **[Flylarb_meow](https://t.me/Flylarb_meow)** for his help and support
 - **[LineageOS Team](https://www.lineageos.org/)** for Updater-binary
 - **[corsicanu](https://github.com/corsicanu)** for GoodLock Patched
+- **[Vaz15k](https://github.com/Vaz15k)** for Ofox,SHRP, and Vbmeta
+- **[3arthur6](https://github.com/3arthur6)** for BluetoothLibraryPatcher
 - *All people for use LICHROM❤️*
 
 # Stargazers over time
