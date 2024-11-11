@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OnOTAInfo>
+  <RomName>LICH ROM</RomName>
+  <VersionName>3.7.6</VersionName>
+  <BuildNumber type="integer">20241111</BuildNumber>
+  <DownloadURL>https://master.dl.sourceforge.net/project/lichrom/SM-A546B/B-LICH-ROM_V3.7.6.zip?viasf=1</DownloadURL>
+  <AndroidVer>14</AndroidVer>
+  <OneUIVer>6.1.1</OneUIVer>
+  <CheckMD5>ee0940bf3698bbd3bc842b53a357576b</CheckMD5>
+  <FileSize type="long">5413378629</FileSize>
+  <WebsiteURL>https://forum.xda-developers.com/apps/magisk/dev-magisk-canary-channel-bleeding-edge-t3839337</WebsiteURL>
+  <ChangelogHeader>https://raw.githubusercontent.com/MrDemon-LICH/OTA-UPDATE/A54/A546B/banner.png</ChangelogHeader>
+  <ChangelogURL>https://raw.githubusercontent.com/MrDemon-LICH/OTA-UPDATE/A54/A546B/changelog.txt</ChangelogURL>
+</OnOTAInfo>
