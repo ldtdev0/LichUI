@@ -1,15 +1,13 @@
 <h1 align="center">
   <img loading="lazy" src="readme-res/banner.png"/>
 </h1>
-<p align="center">UN1CA <i>(/ˈu.ni.ka/)</i> is a work-in-progress custom firmware for Samsung Galaxy devices.</p>
+<p align="center">LICHROM is a custom firmware project for Samsung Galaxy Devices.</p>
 
 <p align="center">
-  <a href="https://github.com/salvogiangri/UN1CA/discussions">🚀 Discussions</a>
-  •
-  <a href="https://t.me/unicarom">💬 Telegram</a>
+  <a href="https://t.me/A54DEVELOPER">💬 Telegram</a>
 </p>
 
-# What is UN1CA?
+# What is LICHROM?
 UN1CA is a work-in-progress custom firmware for Samsung Galaxy devices. It's based on the latest and greatest iteration of Samsung's UX and it also includes additional features and tweaks to ensure the best possible experience out of the box.
 
 # Features
