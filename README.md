@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img loading="lazy" src="readme-res/banner.png"/>
+  <img loading="lazy" src="readme-res/banner.jpg"/>
 </h1>
 <p align="center">LICHROM is a custom firmware project for Samsung Galaxy Devices.</p>
 
