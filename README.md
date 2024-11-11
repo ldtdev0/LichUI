@@ -63,6 +63,3 @@ A big thanks goes to the following for their invaluable contributions in no part
 - **[Vaz15k](https://github.com/Vaz15k)** for Ofox,SHRP, and Vbmeta
 - **[3arthur6](https://github.com/3arthur6)** for BluetoothLibraryPatcher
 - *All people for use LICHROM❤️*
-
-# Stargazers over time
-[![Stargazers over time](https://starchart.cc/salvogiangri/UN1CA.svg)](https://starchart.cc/salvogiangri/UN1CA)
