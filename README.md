@@ -50,7 +50,7 @@ The following conditions apply:
 
 # Credits
 A big thanks goes to the following for their invaluable contributions in no particular order:
-- **[ShaDisNX255](https://github.com/ShaDisNX255)** for his help, time and for his [NcX ROM](https://github.com/ShaDisNX255/NcX_Stock) which inspired this project
+- **[salvogiangri](https://github.com/salvogiangri)** for his [UN1CA](https://github.com/salvogiangri/UN1CA/tree/main) which inspired this project and for his [OnUpdater](https://github.com/Mesa-Labs-Archive/OnUpdate).
 - **[DavidArsene](https://github.com/DavidArsene)** for his help and time
 - **[paulowesll](https://github.com/paulowesll)** for his help and support
 - **[Simon1511](https://github.com/Simon1511)** for his support and some of the device-specific patches
