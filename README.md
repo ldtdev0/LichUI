@@ -1,7 +1,7 @@
 <h1 align="center">
   <img loading="lazy" src="readme-res/banner.jpg"/>
 </h1>
-<p align="center">LICHROM is a custom firmware project for Samsung Galaxy Devices.</p>
+<p align="center">LICHROM is a custom firmware project for Samsung Galaxy A54 5GA.</p>
 
 <p align="center">
   <a href="https://t.me/A54DEVELOPER">💬 Telegram</a>
