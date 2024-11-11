@@ -59,5 +59,14 @@ A big thanks goes to the following for their invaluable contributions in no part
 - **[LineageOS Team](https://www.lineageos.org/)** for their original [OTA updater implementation](https://github.com/LineageOS/android_packages_apps_Updater)
 - *All the UN1CA project contributors and testers ❤️*
 
+A big thanks goes to the following for their invaluable contributions in no particular order:
+
+salvogiangri for his Rom UN1CA which inspired this project and for his OnUpdater
+GalaxyApks for mods
+Flylarb_meow for his help and support
+corsicanu for his GoodLock Patched
+LineageOS Team for Updater-binary
+All people for use LICHROM❤️
+
 # Stargazers over time
 [![Stargazers over time](https://starchart.cc/salvogiangri/UN1CA.svg)](https://starchart.cc/salvogiangri/UN1CA)
