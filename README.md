@@ -8,10 +8,10 @@
 </p>
 
 # What is LICHROM?
-UN1CA is a work-in-progress custom firmware for Samsung Galaxy devices. It's based on the latest and greatest iteration of Samsung's UX and it also includes additional features and tweaks to ensure the best possible experience out of the box.
+LICHROM is a custom firmware in development for the Samsung Galaxy A54 5G device. It is based on the latest and greatest Samsung UI and also includes additional features and tweaks to ensure the best user experience.
 
 # Features
-- Based on the latest stable Galaxy S23 firmware
+- Based on the latest stable Galaxy S23 FE firmware
 - Galaxy AI support
 - High end animations
 - Native/live blur support
@@ -28,23 +28,17 @@ UN1CA is a work-in-progress custom firmware for Samsung Galaxy devices. It's bas
 - Camera privacy toggle support
 - Debloated from useless system services/additional apps
 - Integrated OTA updates app
-- Play Integrity Fix included
 - [BluetoothLibraryPatcher](https://github.com/3arthur6/BluetoothLibraryPatcher) included
-- [FrameworkPatch](https://github.com/chiteroman/FrameworkPatch) implemented in system frameworks
-- [KnoxPatch](https://github.com/salvogiangri/KnoxPatch) implemented in system frameworks
 - China Device Care app included
 - [Patched GoodLock](https://github.com/corsicanu/goodlock_dump) app included
-- Unlimited backup storage on Google Photos
-- Extra mods (Live blur toggle, FOD animation style, secure screenshot toggle, app downgrade toggle, Dual Messenger on all apps)
-- Extra CSC features (Call recording, Hiya, Network speed in status bar, AltZLife)
 
 # Copyright Notice
 
-Copyright © 2024 Salvo Giangreco. All rights reserved.
+Copyright © 2024 MrDemon-LICH. All rights reserved.
 
-Starting from version 2.0.0, UN1CA is no longer under the GPL-3.0 License. Instead, all rights to the software are reserved by the owner.
+For LICHROM all rights to the software are reserved to the owner.
 
-The following conditions now apply:
+The following conditions apply:
 
 1. **No Modifications:** The software may not be modified in any way. This includes but is not limited to changing, adding, or removing any part of the software's code or functionality.
 
