@@ -51,22 +51,11 @@ The following conditions apply:
 # Credits
 A big thanks goes to the following for their invaluable contributions in no particular order:
 - **[salvogiangri](https://github.com/salvogiangri)** for his [UN1CA](https://github.com/salvogiangri/UN1CA/tree/main) which inspired this project and for his [OnUpdater](https://github.com/Mesa-Labs-Archive/OnUpdate).
-- **[DavidArsene](https://github.com/DavidArsene)** for his help and time
-- **[paulowesll](https://github.com/paulowesll)** for his help and support
-- **[Simon1511](https://github.com/Simon1511)** for his support and some of the device-specific patches
-- **[ananjaser1211](https://github.com/ananjaser1211)** for troubleshooting and his time
-- **[iDrinkCoffee](https://github.com/iDrinkCoffee-TG)** and **[RisenID](https://github.com/RisenID)** for documentation revisioning
-- **[LineageOS Team](https://www.lineageos.org/)** for their original [OTA updater implementation](https://github.com/LineageOS/android_packages_apps_Updater)
-- *All the UN1CA project contributors and testers ❤️*
-
-A big thanks goes to the following for their invaluable contributions in no particular order:
-
-salvogiangri for his Rom UN1CA which inspired this project and for his OnUpdater
-GalaxyApks for mods
-Flylarb_meow for his help and support
-corsicanu for his GoodLock Patched
-LineageOS Team for Updater-binary
-All people for use LICHROM❤️
+- **[GalaxyApks](https://t.me/galaxyapks)** for mods
+- **[Flylarb_meow](https://t.me/Flylarb_meow)** for his help and support
+- **[LineageOS Team](https://www.lineageos.org/)** for Updater-binary
+- **[corsicanu](https://github.com/corsicanu)** for GoodLock Patched
+- *All people for use LICHROM❤️*
 
 # Stargazers over time
 [![Stargazers over time](https://starchart.cc/salvogiangri/UN1CA.svg)](https://starchart.cc/salvogiangri/UN1CA)
