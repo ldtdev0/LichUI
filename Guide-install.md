@@ -4,7 +4,12 @@
 
 _**Note:** do not use download managers to download firmware._
 
-**Installation steps:**
+## Custom Recovery
+
+* OrangeFox or SHRP: [Github](https://github.com/Vaz15k/android_device_samsung_a54x)
+* Vbmeta: [Github](https://github.com/Vaz15k/proprietary_vendor_samsung_a54x)
+
+## Installation steps:
 
 * Flash Stock Rom
 * Install Custom Recovery
