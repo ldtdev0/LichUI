@@ -5,6 +5,7 @@
 
 <p align="center">
   <a href="https://t.me/A54DEVELOPER">💬 Telegram</a>
+•
 <a href="https://www.paypal.me/TommyZambrano">☕️Donation</a>
 </p>
 
