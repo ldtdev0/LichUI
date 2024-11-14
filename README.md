@@ -64,3 +64,6 @@ A big thanks goes to the following for their invaluable contributions in no part
 - **[Vaz15k](https://github.com/Vaz15k)** for Ofox,SHRP, and Vbmeta
 - **[3arthur6](https://github.com/3arthur6)** for BluetoothLibraryPatcher
 - *All people for use LICHROM❤️*
+
+<h1 align="center">
+  <img loading="lazy" src="readme-res/end_page.jpg"/>
