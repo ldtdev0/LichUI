@@ -1,7 +1,7 @@
 <h1 align="center">
   <img loading="lazy" src="readme-res/banner.jpg"/>
 </h1>
-_<p align="center">Wellcome to LICHROM !!!</p>_
+<p align="center">Wellcome to LICHROM !!!</p>
 
 <p align="center">
   <a href="https://t.me/A54DEVELOPER">💬 Telegram</a>
