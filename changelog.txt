@@ -1,3 +1,3 @@
-New About Phone Style from Galaxy S24
-Add GoodLock Patched
-More Debloat 
+Add Secure Folder
+Add New fingerprint Animation
+Auto Confirm Pin
