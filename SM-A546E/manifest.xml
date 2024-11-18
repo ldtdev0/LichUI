@@ -2,7 +2,7 @@
 <OnOTAInfo>
   <RomName>LICH ROM</RomName>
   <VersionName>3.7.7</VersionName>
-  <BuildNumber type="integer">20241119</BuildNumber>
+  <BuildNumber type="integer">20241117</BuildNumber>
   <DownloadURL>https://sitsa.dl.sourceforge.net/project/lichrom/SM-A546E/LICH-ROM_V3.7.7.zip?viasf=1</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.1.1</OneUIVer>
