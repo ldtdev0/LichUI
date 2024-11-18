@@ -33,6 +33,8 @@ LICHROM is a custom firmware in development for the Samsung Galaxy A54 5G device
 - [BluetoothLibraryPatcher](https://github.com/3arthur6/BluetoothLibraryPatcher) included
 - China Device Care app included
 - [Patched GoodLock](https://github.com/corsicanu/goodlock_dump) app included
+- Secure Folder
+- Auto Pin Confirm
 
 # How Install LICHROM
 
