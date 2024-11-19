@@ -1,3 +1,4 @@
-Add Secure Folder
-Add New fingerprint Animation
-Auto Confirm Pin
+Fix Portrait camera
+KnoxPatch
+Duall App patch
+Fix OtaUpdate for serie E
