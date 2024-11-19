@@ -1,4 +1,3 @@
 Fix Portrait camera
-KnoxPatch
 Duall App patch
 Fix OtaUpdate for serie E
