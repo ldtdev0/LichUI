@@ -1,3 +1,4 @@
-Fix Portrait camera
-Duall App patch
-Fix OtaUpdate for serie E
+November Patch
+Base S711BXXU6DXK4
+Optimization in apk and jar patches
+Rom created via my new build script
