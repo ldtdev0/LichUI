@@ -2,3 +2,5 @@ November Patch
 Base S711BXXU6DXK4
 Optimization in apk and jar patches
 Rom created via my new build script
+Adaptation to the new E and B binary
+Unification of the E and B variants
