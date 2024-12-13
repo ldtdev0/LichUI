@@ -6,3 +6,5 @@ Adaptation to the new E and B binary
 Unification of the E and B variants
 Add LICH settings
 Fix Live Blur in LICH Setting
+Fix Ota Updater
+Add Network Speed in status bar
