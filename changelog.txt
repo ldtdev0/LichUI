@@ -1,10 +1,5 @@
-November Patch
-Base S711BXXU6DXK4
-Optimization in apk and jar patches
-Rom created via my new build script
-Adaptation to the new E and B binary
-Unification of the E and B variants
-Add LICH settings
-Fix Live Blur in LICH Setting
-Fix Ota Updater
+New Security Patch
+Base S711BXXS6DXK8
 Add Network Speed in status bar
+Model name changed to A54
+OneUI 6.1.1 is now displayed in software information
