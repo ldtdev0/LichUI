@@ -1,5 +1,3 @@
-New Security Patch
-Base S711BXXS6DXK8
-Add Network Speed in status bar
-Model name changed to A54
-OneUI 6.1.1 is now displayed in software information
+Fix Routines
+Remove SmartManagerCN
+Minor Adjustments
