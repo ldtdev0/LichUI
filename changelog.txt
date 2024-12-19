@@ -1,3 +1,4 @@
+Fix SmartManagerCN
+Fix AppLock
 Fix Routines
-Remove SmartManagerCN
-Minor Adjustments
+Fix Data Usage
