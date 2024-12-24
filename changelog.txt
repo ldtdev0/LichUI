@@ -1,4 +1,8 @@
-Fix SmartManagerCN
-Fix AppLock
-Fix Routines
-Fix Data Usage
+Important: requires installation of the new stock rom, 
+therefore the installation must be clean
+
+Update firmware stock
+Add Optics and Prism
+Fix Overlays
+Fix Google Assintant
+Minor fixes
