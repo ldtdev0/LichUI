@@ -1,8 +1,11 @@
 ## How Install?
 
-**Requirements:** Have the stock firmware indicated in the publication installed, have custom recovey, and have the rom downloaded.
+**Requirements:** 
+- Have the necessary bootloader for the rom installed, have the custom recovery and have the rom downloaded.
+- You can use the CSC you like but you must have the specific bootloader: [bootloader_info](https://github.com/MrDemon-LICH/PROJECT-LICHROM/blob/main/bootloader_info.md) , in case the bootloader is not available in your CSC use the one attached in the rom update post.
 
-_**Note:** do not use download managers to download firmware._
+_**Note:**_
+- _Do not use download managers to download firmware._
 
 ## Custom Recovery
 
@@ -11,7 +14,7 @@ _**Note:** do not use download managers to download firmware._
 
 ## Installation steps:
 
-* Flash Stock Rom
+* Flash bootloader stock required
 * Install Custom Recovery
 * Formad data and reboot system
 * Skip initial config
