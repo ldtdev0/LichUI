@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
   <RomName>LICH ROM</RomName>
-  <VersionName>3.8.8</VersionName>
-  <BuildNumber type="integer">20240105</BuildNumber>
-  <DownloadURL>https://master.dl.sourceforge.net/project/lichrom/SM-A546X/LICH-ROM_3.8.8_a54x.zip?viasf=1</DownloadURL>
+  <VersionName>3.8.9</VersionName>
+  <BuildNumber type="integer">20240115</BuildNumber>
+  <DownloadURL>https://master.dl.sourceforge.net/project/lichrom/SM-A546X/LICH-ROM_3.8.9_a54x.zip?viasf=1</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.1.1</OneUIVer>
-  <CheckMD5>6271206a9cc9a776e70736a85cb90862</CheckMD5>
-  <FileSize type="long">5048307262</FileSize>
+  <CheckMD5>587c10b837204ca3bdfa757830d62ddd</CheckMD5>
+  <FileSize type="long">5042985622</FileSize>
   <WebsiteURL>https://forum.xda-developers.com/apps/magisk/dev-magisk-canary-channel-bleeding-edge-t3839337</WebsiteURL>
   <ChangelogHeader>https://raw.githubusercontent.com/MrDemon-LICH/PROJECT-LICHROM/refs/heads/main/SM-A546E/banner.png</ChangelogHeader>
   <ChangelogURL>https://raw.githubusercontent.com/MrDemon-LICH/PROJECT-LICHROM/main/changelog.txt</ChangelogURL>
