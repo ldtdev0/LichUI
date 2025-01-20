@@ -1,3 +1,5 @@
-Update
+Fix Bixby
+Optimize build.prop tweaks
+Update china apps
 Minor adjustments
 
