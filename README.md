@@ -37,6 +37,10 @@ LICHROM is a custom firmware in development for the Samsung Galaxy A54 5G device
 - Auto Pin Confirm
 - Extra Lich Settings
 
+# ScreenShot's
+
+**[ScreenShot](https://github.com/MrDemon-LICH/PROJECT-LICHROM/blob/main/screenshot.md)**
+
 # How Install LICHROM
 
 **[Guide Install](https://github.com/MrDemon-LICH/PROJECT-LICHROM/blob/main/Guide-install.md)**
