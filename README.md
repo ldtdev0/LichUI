@@ -65,7 +65,7 @@ The following conditions apply:
 A big thanks goes to the following for their invaluable contributions in no particular order:
 - **[salvogiangri](https://github.com/salvogiangri)** for his [UN1CA](https://github.com/salvogiangri/UN1CA/tree/main) which inspired this project, inspired this repository, for patches and for his [OnUpdater](https://github.com/Mesa-Labs-Archive/OnUpdate).
 - **[GalaxyApks](https://t.me/galaxyapks)** for mods
-- **[Flylarb_meow](https://t.me/Flylarb_meow)** for his help and support
+- **[Flylarb_meow](https://t.me/Flylarb_meow)** for his AodWallpaper,help and support
 - **[Winner](https://t.me/@Winnerxd1001)** for his help and support
 - **[ShaDisNX255](https://github.com/ShaDisNX255)** for his help and support
 - **[LineageOS Team](https://www.lineageos.org/)** for Updater-binary
