@@ -1,2 +1,6 @@
-Base S711BXXS6DXL7
-February Security Patch
+Update via OTA
+Add S24 Wallpaper
+Camera optimization
+Fix Ambiental Wallpaper
+Fix AodWallpaper 
+(has a little flickering when using "one tap")
