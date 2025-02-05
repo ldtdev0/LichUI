@@ -1,5 +1,3 @@
 Update via OTA
-Add S24 Wallpaper
-Camera optimization
-Fix Ambiental Wallpaper
-Vendor optimization
+Fix Bluetooth paired
+Add Camera Mod by Arseniy
