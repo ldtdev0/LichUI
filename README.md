@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c8cb0e8e-59cd-4e89-bdaa-cb1feb5e642b)<h1 align="center">
+<h1 align="center">
   <img loading="lazy" src="readme-res/banner.jpg"/>
 </h1>
 <p align="center"><i>Wellcome to LICHROM !!!</i></p>
