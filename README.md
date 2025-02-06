@@ -1,4 +1,4 @@
-<h1 align="center">
+![image](https://github.com/user-attachments/assets/c8cb0e8e-59cd-4e89-bdaa-cb1feb5e642b)<h1 align="center">
   <img loading="lazy" src="readme-res/banner.jpg"/>
 </h1>
 <p align="center"><i>Wellcome to LICHROM !!!</i></p>
@@ -36,6 +36,7 @@ LICHROM is a custom firmware in development for the Samsung Galaxy A54 5G device
 - Secure Folder
 - Auto Pin Confirm
 - Extra Lich Settings
+- Support FHD (120-24 FPS), QHD (60-30 FPS), UHD (60-30-24 FPS) in Pro Video
 
 # ScreenShot's
 
@@ -72,6 +73,7 @@ A big thanks goes to the following for their invaluable contributions in no part
 - **[corsicanu](https://github.com/corsicanu)** for GoodLock Patched
 - **[Vaz15k](https://github.com/Vaz15k)** for Ofox,SHRP, and Vbmeta
 - **[3arthur6](https://github.com/3arthur6)** for BluetoothLibraryPatcher
+- **[Arseniy](https://t.me/Arsenybespomestnov)** for Camera video modes
 - *All people for use LICHROM❤️*
 
 <h1 align="center">
