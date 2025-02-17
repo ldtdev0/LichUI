@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "builddate": 20250215,
+      "md5": "d3440364724001e75bdacc06ed960b00",
+      "patch": 20250101,
+      "size": 153623860,
+      "bootloaderE": "A546EXXSBCXL3",
+      "bootloaderB": "A546BXXSBCXL3",
+      "url": "0",
+      "version": "3.9.5"
+    }
+  ]
+}
