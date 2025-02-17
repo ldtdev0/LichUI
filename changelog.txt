@@ -1,3 +1,4 @@
-Update via OTA
-Fix Bluetooth paired
-Add Camera Mod by Arseniy
+New Updater OTA
+Fix Samsung DEX
+Remove camera mod, You can use the magisk/kernelsu module available in the group.
+Minor optimizations
