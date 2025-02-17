@@ -1,10 +1,10 @@
 {
   "response": [
     {
-      "builddate": 20250216,
-      "md5": "f0cb36ba9cc8e4db67c5943bbb6ffe38",
+      "builddate": 20250217,
+      "md5": "8420898621ac58025a51f0dee6d41cf4",
       "patch": 20250101,
-      "size": 5534205172,
+      "size": 5534216847,
       "bootloaderE": "A546EXXSBCXL3",
       "bootloaderB": "A546BXXSBCXL3",
       "url": "https://cfhcable.dl.sourceforge.net/project/lichrom/SM-A546X/LICH-ROM_3.9.4_a54x.zip?viasf=1",
