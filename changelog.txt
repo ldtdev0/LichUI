@@ -1,5 +1,3 @@
-New Updater OTA
-Fix Samsung DEX
-Remove camera mod, You can use the magisk/kernelsu module available in the group.
+Update security patch
+Update binary E and B
 Minor optimizations
-Fix minor errors
