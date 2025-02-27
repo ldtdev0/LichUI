@@ -36,7 +36,7 @@ LICHROM is a custom firmware in development for the Samsung Galaxy A54 5G device
 - Secure Folder
 - Auto Pin Confirm
 - Extra Lich Settings
-- Support FHD (120-24 FPS), QHD (60-30 FPS), UHD (60-30-24 FPS) in Pro Video
+- Ilimited Google Photos
 
 # ScreenShot's
 
@@ -64,7 +64,7 @@ The following conditions apply:
 
 # Credits
 A big thanks goes to the following for their invaluable contributions in no particular order:
-- **[salvogiangri](https://github.com/salvogiangri)** for his [UN1CA](https://github.com/salvogiangri/UN1CA/tree/main) which inspired this project, inspired this repository, for patches and for his [OnUpdater](https://github.com/Mesa-Labs-Archive/OnUpdate).
+- **[salvogiangri](https://github.com/salvogiangri)** for his [UN1CA](https://github.com/salvogiangri/UN1CA/tree/main) which inspired this project, inspired this repository, inspired OTA Updater, and for UN1CA patches.
 - **[GalaxyApks](https://t.me/galaxyapks)** for mods
 - **[Flylarb_meow](https://t.me/Flylarb_meow)** for his AodWallpaper,help and support
 - **[Winner](https://t.me/@Winnerxd1001)** for his help and support
