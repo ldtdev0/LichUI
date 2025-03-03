@@ -2,9 +2,9 @@
   "response": [
     {
       "builddate": 20250303,
-      "md5": "f4087319b0c09ddfbe27fa8b00ae3d1e",
+      "md5": "825292df3fe69ee5ac3b467041274409",
       "patch": 20250201,
-      "size": 5535049963,
+      "size": 5535041232,
       "bootloaderE": "A546EXXSBCYA2",
       "bootloaderB": "A546BXXSBCYB1",
       "url": "https://sourceforge.net/projects/lichrom/files/SM-A546X/LICH-ROM_3.9.8_a54x.zip",
