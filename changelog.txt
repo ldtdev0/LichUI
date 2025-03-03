@@ -1,3 +1,4 @@
-Update security patch
-Update binary E and B
-Minor optimizations
+Updater Improvements
+Performance improvements
+Minor fixes
+Product overlay update
