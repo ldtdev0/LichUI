@@ -1,4 +1,5 @@
-Updater Improvements
-Performance improvements
-Minor fixes
-Product overlay update
+HighEnd animations
+optimization and performance
+Update OTA APP
+system-wide buildprop adjustments
+Good Lock Patch is now uninstallable on the first clean install of the ROM
