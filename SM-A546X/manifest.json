@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "builddate": 20250312,
-      "md5": "7d76598c88c879a8c790bcfe8e0e94c7",
+      "builddate": 20250316,
+      "md5": "2ec71c65e5bc6e6405c06ace27f912b7",
       "patch": 20250201,
-      "size": 5517612776,
+      "size": 5538761115,
       "bootloaderE": "A546EXXSBCYA2",
       "bootloaderB": "A546BXXSBCYB1",
-      "url": "https://sourceforge.net/projects/lichrom/files/SM-A546X/LICH-ROM_3.9.9_a54x.zip",
-      "version": "3.9.9"
+      "url": "https://sourceforge.net/projects/lichrom/files/SM-A546X/LICH-ROM_4.0.0_a54x.zip",
+      "version": "4.0.0"
     }
   ]
 }
