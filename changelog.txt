@@ -1,5 +1,3 @@
-HighEnd animations
-optimization and performance
-Update OTA APP
-system-wide buildprop adjustments
-Good Lock Patch is now uninstallable on the first clean install of the ROM
+Add Camera Mod Lite
+Optimization in Camera
+Optimization in System
