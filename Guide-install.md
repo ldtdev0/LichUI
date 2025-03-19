@@ -18,7 +18,7 @@ _**Note:**_
 * Install Custom Recovery
 * Formad data and reboot system
 * Skip initial config
-* Copy the ROM.zip into the phone's internal memory [ you can also use otg or micro sd ]
+* Copy the ROM.zip into the phone's internal memory [you can also use otg or micro sd]
 * Reboot recovery
 * Flash ROM.zip
 * Formad Data>yes
