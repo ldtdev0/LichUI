@@ -1,3 +1,4 @@
-Add Camera Mod Lite
-Optimization in Camera
-Optimization in System
+Update via OTA
+March Security patch
+Base S711BXXS6DYBH
+Optional Update
