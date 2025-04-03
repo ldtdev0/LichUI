@@ -1,7 +1,7 @@
 <h1 align="center">
   <img loading="lazy" src="readme-res/banner.png"/>
 </h1>
-<h1 align="center"><i>Wellcome to LICHROM !!!</i></h1>
+<h1 align="center"><i>Wellcome to LichUI !!!</i></h1>
 
 <p align="center">
   <a href="https://t.me/A54DEVELOPER">💬 Telegram</a>
@@ -10,7 +10,7 @@
 </p>
 
 # What is LICHROM?
-LICHROM is a custom firmware in development for the Samsung Galaxy A54 5G device. It is based on the latest and greatest Samsung UI and also includes additional features and tweaks to ensure the best user experience.
+LichUI is a custom firmware in development for the Samsung Galaxy A54 5G device. It is based on the latest and greatest Samsung UI and also includes additional features and tweaks to ensure the best user experience.
 
 # Features
 - Based on the latest stable Galaxy S23 FE firmware
@@ -40,17 +40,17 @@ LICHROM is a custom firmware in development for the Samsung Galaxy A54 5G device
 
 # ScreenShot's
 
-**[ScreenShot](https://github.com/MrDemon-LICH/PROJECT-LICHROM/blob/main/screenshot.md)**
+**[ScreenShot](https://github.com/MrDemon-LICH/PROJECT-LichUI/blob/main/screenshot.md)**
 
 # How Install LICHROM
 
-**[Guide Install](https://github.com/MrDemon-LICH/PROJECT-LICHROM/blob/main/Guide-install.md)**
+**[Guide Install](https://github.com/MrDemon-LICH/PROJECT-LichUI/blob/main/Guide-install.md)**
 
 # Copyright Notice
 
 Copyright © 2024 MrDemon-LICH. All rights reserved.
 
-For LICHROM all rights to the software are reserved to the owner.
+For LichUI all rights to the software are reserved to the owner.
 
 The following conditions apply:
 
