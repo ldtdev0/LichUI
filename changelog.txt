@@ -1,4 +1,3 @@
-Update via OTA
-March Security patch
-Base S711BXXS6DYBH
-Optional Update
+Update via OTA 
+Sync new name of the rom
+Add Extra options in OTA
