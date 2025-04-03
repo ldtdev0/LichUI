@@ -1,5 +1,5 @@
 <p>
-    <h1 align="center">LICH ROM</h1>
+    <h1 align="center">LichUI</h1>
 </p>
 
 <div align="center" style="border-radius: 15px; background-color: #F5F5F5; padding: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
