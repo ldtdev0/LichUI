@@ -43,7 +43,7 @@ jobs:
             **ROM DATE:** ${{ env.DATE }}
             **OneUI Version:** 6.1.1
             #### ROM
-            - [LICH-ROM](${{ env.ROM_URL }})   
+            - [LichUI](${{ env.ROM_URL }})   
             #### FIRMWARE STOCK
             - [Bootloader's](https://github.com/MrDemon-LICH/PROJECT-LichUI/blob/main/bootloader_info.md)
             - [A546E](${{ env.FW_E_URL }})
