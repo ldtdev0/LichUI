@@ -45,7 +45,7 @@ jobs:
             #### ROM
             - [LICH-ROM](${{ env.ROM_URL }})   
             #### FIRMWARE STOCK
-            - [Bootloader's](https://github.com/MrDemon-LICH/PROJECT-LICHROM/blob/main/bootloader_info.md)
+            - [Bootloader's](https://github.com/MrDemon-LICH/PROJECT-LichUI/blob/main/bootloader_info.md)
             - [A546E](${{ env.FW_E_URL }})
             - [A546B](${{ env.FW_B_URL }})
         env:
