@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img loading="lazy" src="readme-res/banner.jpg"/>
+  <img loading="lazy" src="readme-res/banner.png"/>
 </h1>
 <h1 align="center"><i>Wellcome to LICHROM !!!</i></h1>
 
