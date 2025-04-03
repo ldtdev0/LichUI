@@ -9,7 +9,7 @@
 <a href="https://www.paypal.me/TommyZambrano">☕️Donation</a>
 </p>
 
-# What is LICHROM?
+# What is LichUI?
 LichUI is a custom firmware in development for the Samsung Galaxy A54 5G device. It is based on the latest and greatest Samsung UI and also includes additional features and tweaks to ensure the best user experience.
 
 # Features
@@ -77,4 +77,4 @@ A big thanks goes to the following for their invaluable contributions in no part
 - *All people for use LICHROM❤️*
 
 <h1 align="center">
-  <img loading="lazy" src="readme-res/end_page.jpg"/>
+  <img loading="lazy" src="readme-res/end_page.png"/>
