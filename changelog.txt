@@ -1,3 +1,4 @@
 Update via OTA 
 Sync new name of the rom
+New BootAnimation
 Add Extra options in OTA
