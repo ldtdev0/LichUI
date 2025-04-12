@@ -1,4 +1,4 @@
 Update via OTA 
-Sync new name of the rom
-New BootAnimation
-Add Extra options in OTA
+Add secure screenshot in Lich settings
+Update blobs
+Minor fixes
