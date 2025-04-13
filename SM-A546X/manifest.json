@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "builddate": 20250412,
-      "md5": "ab4d9969e79d72d7664f5fa6df677af3",
+      "builddate": 20250413,
+      "md5": "30015954aa248db0a2aa4fdc72d09f47",
       "patch": 20250301,
-      "size": 5533189113,
+      "size": 5533187651,
       "bootloaderE": "A546EXXSBCYA2",
       "bootloaderB": "A546BXXSBCYB1",
-      "url": "https://pixeldrain.com/api/file/jiXUrd3W?download",
-      "version": "4.0.3"
+      "url": "https://pixeldrain.com/api/file/zJcz3Cn8?download",
+      "version": "4.0.4"
     }
   ]
 }
