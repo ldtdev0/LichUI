@@ -61,7 +61,7 @@ The following conditions apply:
 A big thanks goes to the following for their invaluable contributions in no particular order:
 - **[salvogiangri](https://github.com/salvogiangri)** for his [UN1CA](https://github.com/salvogiangri/UN1CA/tree/main) which inspired this project, inspired this repository, inspired OTA Updater, and for UN1CA patches.
 - **[GalaxyApks](https://t.me/galaxyapks)** for mods
-- **[Flylarb_meow](https://t.me/Flylarb_meow)** for his AodWallpaper,help and support
+- **[Flylarb_meow](https://t.me/Flylarb_meow)** for his AodWallpaper, help and support
 - **[Winner](https://t.me/@Winnerxd1001)** for his help and support
 - **[ShaDisNX255](https://github.com/ShaDisNX255)** for his help and support
 - **[LineageOS Team](https://www.lineageos.org/)** for Updater-binary
@@ -69,6 +69,9 @@ A big thanks goes to the following for their invaluable contributions in no part
 - **[Vaz15k](https://github.com/Vaz15k)** for Ofox, SHRP, and Vbmeta
 - **[3arthur6](https://github.com/3arthur6)** for BluetoothLibraryPatcher
 - **[Arseniy](https://t.me/Arsenybespomestnov)** for Camera video modes
+- **[desukia](https://t.me/Desukia)** for help and more
+- **[Sarp](https://t.me/Kozilyy)** for help and more
+- **[ldt](https://github.com/ldtdev0/)** for LichUI's brand design
 - *All people for using LichUI ❤️*
 
 <img loading="lazy" src="readme-res/Footer.png" width="500"/>
