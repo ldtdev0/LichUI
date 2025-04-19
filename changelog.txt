@@ -1,5 +1,4 @@
 Update via OTA 
-Add secure screenshot in Lich settings
-Update blobs
-Minor fixes
-13/04/2025 - Fix Secure ScreenShot
+Fix rotation in ota updater
+Update camera mod by Arseniy
+New design by Ldt
