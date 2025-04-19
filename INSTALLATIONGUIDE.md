@@ -5,7 +5,7 @@
 > **Installing a custom ROM will erase your data, so back it up!**
 
 ## Prerequisites
-1) Install <kbd> [Samsung USB driver](https://developer.samsung.com/android-usb-driver) </kbd>, <kbd> [Odin](https://odindownloader.com/download/odin3-v3-14-4) </kbd> and download <kbd> [LichUI](releases/) </kbd> to your PC 
+1) Install <kbd> [Samsung USB driver](https://developer.samsung.com/android-usb-driver) </kbd>, <kbd> [Odin](https://odindownloader.com/download/odin3-v3-14-4) </kbd> and download <kbd> [LichUI](https://github.com/MrDemon-LICH/PROJECT-LichUI/releases) </kbd> to your PC 
 2) If you have `EGY` csc `A546EXXSBCYA2` (for E model) and `EUX` csc `A546BXXSBCYB1` (for B model) - **skip 3, 13, 14, 15 points** 
 3) If you haven't `EGY` csc for E model and `EUX` csc for B model - download and unpack your stock system to PC: 
 - <kbd> [B model: A546BXXSBCYB1, CSC EUX](https://samfw.com/firmware/SM-A546B/EUX/A546BXXSBCYB1) </kbd>
