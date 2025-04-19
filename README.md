@@ -4,11 +4,9 @@
 
 <h1 align="center"><i>LichUI</i></h1>
 
-<p align="center">
 [<kbd> <br> 💬 Telegram <br> </kbd>](https://t.me/A54DEVELOPER)
 •
 [<kbd> <br> ☕️ Donation <br> </kbd>](https://www.paypal.me/TommyZambrano)
-</p>
 
 ## What is LichUI?
 LichUI is a custom firmware currently in development for the Samsung Galaxy A54 5G. Built on the latest version of Samsung's One UI, it adds exclusive features and optimizations to deliver the best possible user experience.
