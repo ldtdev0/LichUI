@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img loading="lazy" src="readme-res/Banner.png" width="700"/>
+  <img loading="lazy" src="readme-res/Banner.png" width="900"/>
 </h1>
 
 <h1 align="center"><i>LichUI</i></h1>
