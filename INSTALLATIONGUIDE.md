@@ -10,7 +10,7 @@
 3) If you haven't `EGY` csc for E model and `EUX` csc for B model - download and unpack your stock system to PC: 
 - <kbd> [B model: A546BXXSBCYB1, CSC EUX](https://samfw.com/firmware/SM-A546B/EUX/A546BXXSBCYB1) </kbd>
 - <kbd> [E model: A546EXXSBCYA2, CSC EGY](https://samfw.com/firmware/SM-A546E/EGY/A546EXXSBCYA2) </kbd>
-4) Download last <kbd> [OrangeFox Recovery](https://github.com/Vaz15k/android_device_samsung_a54x/releases/tag/2024-12-08) </kbd> to your PC for your phone model
+4) Download last <kbd> [OrangeFox Recovery](https://github.com/Vaz15k/android_device_samsung_a54x/releases/tag/2024-12-08) </kbd> or last <kbd> [Twrp](https://github.com/MrDemon-LICH/android_device_samsung_a54x/releases/tag/2025-04-06) </kbd> to your PC for your phone model
 5) Download `vbmeta_patched`:
 - <kbd> [B model](https://github.com/Vaz15k/proprietary_vendor_samsung_a54x/releases/tag/A546BXXSBCYB1_OXM) </kbd>
 - <kbd> [E model](https://github.com/Vaz15k/proprietary_vendor_samsung_a54x/releases/tag/A546EXXSBCYA2_OJM) </kbd>
