@@ -39,7 +39,7 @@ LichUI is a custom firmware currently in development for the Samsung Galaxy A54 
 [<kbd> <br> 📸 Screenshots <br> </kbd>](https://github.com/MrDemon-LICH/PROJECT-LichUI/blob/main/screenshot.md)
 
 ## How to install LichUI?
-[<kbd> <br> ⚙️ Installation guide <br> </kbd>](https://github.com/MrDemon-LICH/PROJECT-LichUI/blob/main/Guide-install.md)
+[<kbd> <br> ⚙️ Installation guide <br> </kbd>](https://github.com/MrDemon-LICH/PROJECT-LichUI/blob/main/INSTALLATIONGUIDE.md)
 
 ## Copyright Notice
 
