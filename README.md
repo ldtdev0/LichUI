@@ -5,9 +5,9 @@
 <h1 align="center"><i>LichUI</i></h1>
 
 <p align="center">
-  <a href="https://t.me/A54DEVELOPER"><kbd> <br> 💬 Telegram <br><br> </kbd></a>
+  <a href="https://t.me/A54DEVELOPER"><kbd> <br> 💬 Telegram <br><br> </kbd></a>
   •
-  <a href="https://www.paypal.me/TommyZambrano"><kbd> <br> ☕️ Donation <br><br> </kbd></a>
+  <a href="https://www.paypal.me/TommyZambrano"><kbd> <br> ☕️ Donation <br><br> </kbd></a>
 </p>
 
 ## What is LichUI?
