@@ -2,7 +2,7 @@
   <img loading="lazy" src="readme-res/Banner.png" width="900"/>
 </h1>
 
-<h1 align="center"><i>LichUI</i></h1>
+<p align="center"><i>LichUI</i></p>
 
 <p align="center">
   <a href="https://t.me/A54DEVELOPER"><kbd> <br> 💬 Telegram <br><br> </kbd></a>
