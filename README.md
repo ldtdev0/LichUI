@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img loading="lazy" src="readme-res/banner.png"/>
+  <img loading="lazy" src="readme-res/Banner.png"/>
 </h1>
 <h1 align="center"><i>Wellcome to LichUI !!!</i></h1>
 
@@ -77,4 +77,4 @@ A big thanks goes to the following for their invaluable contributions in no part
 - *All people for use LICHROM❤️*
 
 <h1 align="center">
-  <img loading="lazy" src="readme-res/end_page.png"/>
+  <img loading="lazy" src="readme-res/Footer.png"/>
