@@ -39,20 +39,14 @@
 21) When you see the black screen - fast press `Power Button` + `Volume Up` at the same time and hold it before the phone shows OrangeFox Recovery
 22) In OrangeFox click the basket button - click `format data` - write `yes`
 23) **Don't click `Reboot`** and copy `LICHUI_4.0.x_a54x.zip` from PC to your phone's internal storage (if your PC sees your internal storage while phone is in recovery, **just skip 24-27 points**)
-<br/>
-
 24) Click `Reboot system` and skip start settings again 
 25) After skipping - allow data transfer in the pop-up window on the phone 
 26) Copy `LICHUI_4.0.x_a54x.zip` from PC to your phone's internal storage
 27) After copying turn off your phone and press `Power Button` + `Volume Up` at the same time and hold it before it shows OrangeFox Recovery
-<br/>
-
 28) In recovery click the first button from the bottom left
 29) Find your `LICHUI_4.0.x_a54x.zip file`, click to it and swipe to right for install
 30) After installation - repeat the 22th point and click `Reboot system`
-<br/>
-
 31) **Done!**
 
 ## Credits
-Installation guide by **[Arseniy](https://t.me/Arsenybespomestnov)** and **[ldt](mailto:ldr9660@gmail.com)**
+Installation guide by **[Arseniy](https://t.me/Arsenybespomestnov)** and **[ldt](https://github.com/ldtdev0/)**
