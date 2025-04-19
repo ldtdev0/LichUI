@@ -11,7 +11,7 @@ LichUI is a custom firmware currently in development for the Samsung Galaxy A54 
 
 ## Features
 - Based on the latest stable Galaxy S23 FE firmware
-- Galaxy AI support
+- Galaxy AI support <img width="20" alt="GalaxyAI" src="https://github.com/user-attachments/assets/24cbb2f6-32dc-4cad-851e-27b1473757c4" />
 - High end animations
 - Native/live blur support
 - AOD clock transition support
@@ -43,7 +43,7 @@ LichUI is a custom firmware currently in development for the Samsung Galaxy A54 
 
 ## Copyright Notice
 
-Copyright © 2024 MrDemon-LICH. All rights reserved.
+Copyright © 2025 MrDemon-LICH. All rights reserved.
 
 For LichUI all rights to the software are reserved to the owner.
 
