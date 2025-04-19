@@ -2,9 +2,9 @@
   <img loading="lazy" src="readme-res/Banner.png"/>
 </h1>
 
-<p align="center">
-## LichUI
+<h1 align="center"><i>LichUI</i></h1>
 
+<p align="center">
 [<kbd> <br> 💬 Telegram <br> </kbd>](https://t.me/A54DEVELOPER)
 •
 [<kbd> <br> ☕️ Donation <br> </kbd>](https://www.paypal.me/TommyZambrano)
