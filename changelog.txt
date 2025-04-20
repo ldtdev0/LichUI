@@ -2,4 +2,3 @@ Update via OTA
 Fix rotation in ota updater
 Update camera mod by Arseniy
 New design by Ldt
-test
