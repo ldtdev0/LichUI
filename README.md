@@ -7,6 +7,8 @@
 <p align="center">
   <a href="https://t.me/A54DEVELOPER"><kbd> <br> 💬 Telegram <br><br> </kbd></a>
   •
+  <a href="https://mrdemon-lich.github.io/PROJECT-LichUI/index.html"><kbd> <br> 🌐 Web <br><br> </kbd></a>
+  •
   <a href="https://www.paypal.me/TommyZambrano"><kbd> <br> ☕️ Donation <br><br> </kbd></a>
 </p>
 
@@ -40,10 +42,10 @@ LichUI is a custom firmware currently in development for the Samsung Galaxy A54 
 - Ilimited Google Photos
 
 ## Screenshots:
-[<kbd> <br> 📸 Screenshots <br> </kbd>](https://github.com/MrDemon-LICH/PROJECT-LichUI/blob/main/screenshot.md)
+[<kbd> <br> 📸 Screenshots <br> </kbd>](https://mrdemon-lich.github.io/PROJECT-LichUI/screenshot.html)
 
 ## How to install LichUI?
-[<kbd> <br> ⚙️ Installation guide <br> </kbd>](https://github.com/MrDemon-LICH/PROJECT-LichUI/blob/main/INSTALLATIONGUIDE.md)
+[<kbd> <br> ⚙️ Installation guide <br> </kbd>](https://mrdemon-lich.github.io/PROJECT-LichUI/install.html)
 
 ## Copyright Notice
 
